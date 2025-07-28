@@ -1,0 +1,3 @@
+2025-07-28 12:00:00.000 INFO System starting
+2025-07-28 12:01:05.123 ERROR Crash detected at ECU0: CODE1234 Fault in subsystem X
+2025-07-28 12:01:06.456 INFO System halted

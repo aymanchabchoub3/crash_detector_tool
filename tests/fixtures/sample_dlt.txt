@@ -1,0 +1,1 @@
+[ECU1][2025-07-28T12:02:00.789Z] INFO: DLT message payload here
